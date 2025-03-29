@@ -8,7 +8,8 @@ I'm **Bao**, I am projected to graduate in 2027, I hope to get a job in game dev
 
 - 🌱 I’m currently majoring in Informatics at ASU
 - 🤔 I know **Javascript, Java, C++, HTML**
--I like crocheting and painting for hobbies
+- 💬 I like crocheting and painting for hobbies
+
 💻[Linkedin](https://www.linkedin.com/in/bao-uyen-le/)
 <!--
 **uyenlx/uyenlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
